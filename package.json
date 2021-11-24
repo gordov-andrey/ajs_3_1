@@ -1,0 +1,19 @@
+{
+  "name": "@gordov-andrey/ajs_3_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gordov-andrey/ajs_3_1.git"
+  },
+  "author": "Andrey Gordov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gordov-andrey/ajs_3_1/issues"
+  },
+  "homepage": "https://github.com/gordov-andrey/ajs_3_1#readme"
+}
